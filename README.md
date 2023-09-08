@@ -1,4 +1,4 @@
-Hi, my name is Oussama Chbani 👋
+**Hi, my name is Oussama Chbani 👋**
 
 I am an aspiring Data Analyst. I have a Master's degree in Auditing and Management Control, and I am pursuing my second Master's degree in International Management and Information Systems.
 
